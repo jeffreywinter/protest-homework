@@ -1,0 +1,32 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Georgia', serif;
+    background-color: white;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.background-caption-box {
+    background-color: gray;
+}
+
+.background-text-box {
+    /* orange */
+    background-color: purple;
+}
+
+p {
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    font-size: 1em;
+}
+
+li {
+    padding: 5px 10px 5px 10px;
+    font-size: 1em;
+}

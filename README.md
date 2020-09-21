@@ -1,1 +1,1 @@
-# protest-homework
+# publishing-demo
